@@ -13,7 +13,7 @@ I'm skilled in NLP and Vison. I've also contributed to the following open source
 ## Contact me
 
 * Email: ptolemaios.ong@gmail.com
-* LinkedIn: [Pongchanok Nuamteam](https://www.linkedin.com/in/pongchnok-nuamteam-263672252)
+* LinkedIn: [Pongchanok Nuamteam](https://www.linkedin.com/in/pongchanok-nuamteam-263672252/)
 <!--
 **IZZARA-URA/IZZARA-URA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
