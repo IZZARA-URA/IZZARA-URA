@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi, I'm Yuu ! 👋
 
-## Hi, I'm [your name]!
+I'm a machine learning engineer with 1-2 years of experience in ML/DL. I'm interested in using ML/DL to solve real-world problems,
 
-I'm a [your job title] with [number] years of experience in [your field]. I'm passionate about [your interests], and I'm always looking for new ways to learn and grow.
-
-I'm skilled in [list of your skills and technologies]. I've also contributed to the following open source projects:
+I'm skilled in NLP and Vison. I've also contributed to the following open source projects:
 
 * [Project 1]
 * [Project 2]
@@ -14,11 +12,7 @@ I'm always looking for new opportunities to collaborate with other talented peop
 
 ## Contact me
 
-* Email: [your email address]
-* Twitter: [@your_twitter_handle]
-* LinkedIn: [your LinkedIn profile URL]
-
-
+* Email: ptolemaios.ong@gmail.com
 <!--
 **IZZARA-URA/IZZARA-URA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
