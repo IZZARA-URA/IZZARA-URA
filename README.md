@@ -13,7 +13,7 @@ I'm always looking for new opportunities to collaborate with other talented peop
 ## Contact me
 
 * Email: ptolemaios.ong@gmail.com
-* LinkedIn: [your LinkedIn profile URL]
+* LinkedIn: Pongchanok Nuamteam
 <!--
 **IZZARA-URA/IZZARA-URA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
