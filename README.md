@@ -6,6 +6,7 @@ such as improving healthcare, I'm skilled in NLP and Vison. I've also contribute
 - [NLP_SENTIMENT_ANALYSIS](https://github.com/IZZARA-URA/NLP_SENTIMENT_ANALYSIS)
 - [NLP_MACHINE_TRANSLATE](https://github.com/IZZARA-URA/NLP_MACHINE_TRANSLATION)
 - [PPE_DETECTION](https://github.com/IZZARA-URA/PPE_DETECTION)
+- [GRAPHEME-TO-PHONEME-G2P](https://github.com/IZZARA-URA/GRAPHEME-TO-PHONEME-G2P.git)
 
 I'm always looking for new opportunities to collaborate with other talented people. If you're interested in working together, please contact me!
 
