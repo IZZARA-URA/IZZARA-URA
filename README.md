@@ -22,6 +22,6 @@ I'm always looking for new opportunities to collaborate with other talented peop
 
 <h3 align="left">Contact me</h3>
 <p align="left"> 
-    Email: <a href="ptolemaios.ong@gmail.com">ptolemaios.ong@gmail.com</a>
-    Likedin: <a href="https://www.linkedin.com/in/pongchanok-nuamteam-263672252/">Pongchanok Nuamteam</a>
+    - Email: <a href="ptolemaios.ong@gmail.com">ptolemaios.ong@gmail.com</a>
+    - Likedin: <a href="https://www.linkedin.com/in/pongchanok-nuamteam-263672252/">Pongchanok Nuamteam</a>
 </p>
