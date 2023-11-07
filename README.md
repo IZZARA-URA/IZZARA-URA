@@ -1,4 +1,4 @@
-### Hi, I'm Yuu ! 👋
+## Hi, I'm Yuu ! 👋
 
    I'm a machine learning engineer with 1-2 years of experience in ML/DL. I'm interested in using ML/DL to solve real-world problems,
 such as improving healthcare, I'm skilled in NLP and Vison. I've also contributed to the following open source projects:
@@ -21,6 +21,6 @@ I'm always looking for new opportunities to collaborate with other talented peop
 </p>
 
 
-## Contact me
+### Contact me
 - Email: <a href="ptolemaios.ong@gmail.com">ptolemaios.ong@gmail.com</a>
 - Likedin: <a href="https://www.linkedin.com/in/pongchanok-nuamteam-263672252/">Pongchanok Nuamteam</a>
