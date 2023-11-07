@@ -18,7 +18,9 @@ I'm always looking for new opportunities to collaborate with other talented peop
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://www.nvidia.com/tr-tr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" width="40" height="40"/> </a> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+    <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
+
 
 <h3 align="left">Contact me</h3>
 <p align="left"> 
