@@ -1,6 +1,6 @@
 ### Hi, I'm Yuu ! 👋
 
-    I'm a machine learning engineer with 1-2 years of experience in ML/DL. I'm interested in using ML/DL to solve real-world problems,
+   I'm a machine learning engineer with 1-2 years of experience in ML/DL. I'm interested in using ML/DL to solve real-world problems,
 such as improving healthcare, I'm skilled in NLP and Vison. I've also contributed to the following open source projects:
 - [DEMO_OCR](https://github.com/IZZARA-URA/DEMO_OCR)
 - [NLP_SENTIMENT_ANALYSIS](https://github.com/IZZARA-URA/NLP_SENTIMENT_ANALYSIS)
