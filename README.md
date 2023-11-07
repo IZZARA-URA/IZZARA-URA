@@ -20,6 +20,9 @@ I'm always looking for new opportunities to collaborate with other talented peop
     <a href="https://www.nvidia.com/tr-tr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/sco/2/21/Nvidia_logo.svg" width="40" height="40"/> </a> 
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 </p>
-## Contact me
--Email: ptolemaios.ong@gmail.com
--LinkedIn: [Pongchanok Nuamteam](https://www.linkedin.com/in/pongchanok-nuamteam-263672252/)
+
+<h3 align="left">Contact me</h3>
+<p align="left"> 
+    <a href="ptolemaios.ong@gmail.com">ptolemaios.ong@gmail.com</a>
+    <a href="https://www.linkedin.com/in/pongchanok-nuamteam-263672252/">Pongchanok Nuamteam</a>
+</p>
