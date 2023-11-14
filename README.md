@@ -8,6 +8,7 @@ such as improving healthcare, I'm skilled in NLP and Vison. I've also contribute
 - [NLP_MACHINE_TRANSLATE](https://github.com/IZZARA-URA/NLP_MACHINE_TRANSLATION)
 - [PPE_DETECTION](https://github.com/IZZARA-URA/PPE_DETECTION)
 - [GRAPHEME-TO-PHONEME-G2P](https://github.com/IZZARA-URA/GRAPHEME-TO-PHONEME-G2P.git)
+- [DJANGO_VEGETMART](https://github.com/IZZARA-URA/DJANGO_VEGETMART) Lunch on AWS now [VEGETMART](http://3.27.8.78:8000/)
 
 I'm always looking for new opportunities to collaborate with other talented people. If you're interested in working together, please contact me!
 
