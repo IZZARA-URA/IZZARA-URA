@@ -26,4 +26,3 @@ I'm always looking for new opportunities to collaborate with other talented peop
 
 ### Contact me :
 - Email: pongchnok.nt@gmail.com
-- Likedin: Pongchanok Nuamteam
