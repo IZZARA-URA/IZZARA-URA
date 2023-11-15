@@ -2,13 +2,16 @@
 
    I'm a machine learning engineer with 1-2 years of experience in ML/DL. I'm interested in using ML/DL to solve real-world problems,
 such as improving healthcare, I'm skilled in NLP and Vison. I've also contributed to the following open source projects:
-- [DEMO_OCR](https://github.com/IZZARA-URA/DEMO_OCR)
-- [DEMO REACT OCR (TESSERACT)](https://github.com/IZZARA-URA/DEMO_REACT_OCR_TESSERACT/tree/react-ocr)
+
 - [NLP_SENTIMENT_ANALYSIS](https://github.com/IZZARA-URA/NLP_SENTIMENT_ANALYSIS)
 - [NLP_MACHINE_TRANSLATE](https://github.com/IZZARA-URA/NLP_MACHINE_TRANSLATION)
 - [PPE_DETECTION](https://github.com/IZZARA-URA/PPE_DETECTION)
 - [GRAPHEME-TO-PHONEME-G2P](https://github.com/IZZARA-URA/GRAPHEME-TO-PHONEME-G2P.git)
 - [DJANGO_VEGETMART](https://github.com/IZZARA-URA/DJANGO_VEGETMART) This DEMO deployed on AWS now, ---> [VEGETMART](http://3.27.8.78:8000/)
+*** Eazy ***
+- [DEMO_OCR](https://github.com/IZZARA-URA/DEMO_OCR)
+- [DEMO REACT OCR (TESSERACT)](https://github.com/IZZARA-URA/DEMO_REACT_OCR_TESSERACT/tree/react-ocr)
+- [DEMO DJANGO IMAGE CLASSIFICATION](https://github.com/IZZARA-URA/DJANGO_IMAGE_CLASSIFICATION/tree/master)
 
 I'm always looking for new opportunities to collaborate with other talented people. If you're interested in working together, please contact me!
 
