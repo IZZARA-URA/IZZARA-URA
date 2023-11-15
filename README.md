@@ -8,7 +8,9 @@ such as improving healthcare, I'm skilled in NLP and Vison. I've also contribute
 - [PPE_DETECTION](https://github.com/IZZARA-URA/PPE_DETECTION)
 - [GRAPHEME-TO-PHONEME-G2P](https://github.com/IZZARA-URA/GRAPHEME-TO-PHONEME-G2P.git)
 - [DJANGO_VEGETMART](https://github.com/IZZARA-URA/DJANGO_VEGETMART) This DEMO deployed on AWS now, ---> [VEGETMART](http://3.27.8.78:8000/)
+
 *** Eazy ***
+
 - [DEMO_OCR](https://github.com/IZZARA-URA/DEMO_OCR)
 - [DEMO REACT OCR (TESSERACT)](https://github.com/IZZARA-URA/DEMO_REACT_OCR_TESSERACT/tree/react-ocr)
 - [DEMO DJANGO IMAGE CLASSIFICATION](https://github.com/IZZARA-URA/DJANGO_IMAGE_CLASSIFICATION/tree/master)
